@@ -146,7 +146,7 @@ nav {
                 <p>Connecting abilities to opportunities</p>
             </div>
         </section><br><br><br>
-    
+    <hr> updating the readme file for practical task 1.2<br>
     <!-- applying and hiring section -->
     <section class="job-sections" id="home">
         <div class="job-seeker" >
@@ -171,6 +171,7 @@ nav {
             <img src="boss.jpg" alt="Image related to job seeking">
         </div>
     </section>
+    
 </body>
 </html> 
 
